@@ -1,1 +1,6 @@
 /* Add CSS Styling */
+.class-1,
+.class-3,
+.class-5 {
+    background-color: red;
+}
