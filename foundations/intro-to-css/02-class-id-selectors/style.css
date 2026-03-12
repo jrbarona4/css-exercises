@@ -1,4 +1,10 @@
 /* Add CSS Styling */
 p {
-    background-color: red;
+    background-color: #e86b82;
+    font-family: 'Verdana', 'DejaVu Sans', sans-serif;
+}
+
+#two {
+    color: #001aff;
+    font-size: 36px;
 }
