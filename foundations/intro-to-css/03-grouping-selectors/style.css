@@ -1,4 +1,8 @@
 /* Add CSS Styling */
+button {
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', serif;
+}
 .click-me {
     background-color: black;
     color: white;
